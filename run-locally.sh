@@ -1,3 +1,3 @@
 #!/bin/sh
 
-python -m http.server --directory public/ 8080
+python -m http.server --directory 8080
